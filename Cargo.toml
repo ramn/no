@@ -8,7 +8,7 @@ documentation = "https://docs.rs/no"
 homepage = "https://github.com/ramn/no"
 repository = "https://github.com/ramn/no"
 readme = "README.md"
-license = "MIT/Apache-2.0"
+license = "Apache-2.0"
 keywords = ["unix", "no"]
 
 [dependencies]
