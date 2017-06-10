@@ -1,14 +1,16 @@
 [package]
-name = "no"
-version = "0.1.0"
 authors = ["ramn <github@rymdimperiet.org>"]
-description = "no - output the string 'n' repeatedly until killed"
-
+description = """
+no - output the string 'n' repeatedly until killed.
+Source: https://github.com/ramn/no"""
 documentation = "https://docs.rs/no"
 homepage = "https://github.com/ramn/no"
-repository = "https://github.com/ramn/no"
-readme = "README.md"
-license = "Apache-2.0"
 keywords = ["unix", "no"]
+license = "Apache-2.0"
+name = "no"
+readme = "README.md"
+repository = "https://github.com/ramn/no"
+version = "0.2.0"
 
 [dependencies]
+clap = "~2.24.0"
