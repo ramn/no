@@ -1,3 +1,9 @@
+//! Output the string 'n' repeatedly until killed. The counterpart to the unix 'yes' utility.
+//!
+//! Install instructions:
+//!
+//!         cargo install no
+
 #[macro_use]
 extern crate clap;
 
